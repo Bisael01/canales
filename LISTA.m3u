@@ -1,27 +1,8 @@
 #EXTM3U
 
-#EXTINF:-1, beinxtraespanol
 
-#EXTINF:-2001 tvg-logo="https://beinxtraespanol.com/images/beINSPORTS-XTRA_ESPANOL-LOGO_HORIZONTAL_FULL-COLOR.png" group-title="DEPORTES Y COMPETENCIAS", BEIN SPORTS XTRA Ñ
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60492fdd9989d30007ccd30a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a121ad30-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ac3bc3c0-b26f-4c9c-8c94-988af191404a&userId=&serverSideAds=true
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="MUNDIAL QATAR | GOL MUNDIAL FHD" tvg-logo="https://app-storage.golmundial.com/app/img/share.jpg" group-title="???QATAR-2022???",GOL MUNDIAL 3 
-http://castlempire.site:8080/cliente3226/123456/238903
-
-
-#EXTINF:-1 tvg-id="" tvg-name="Directv Sports Peru" tvg-logo="https://images2.imgbox.com/2a/c1/LmkNFjUQ_o.png" group-title="???QATAR-2022???”,DIRECTV SPORT
-http://castlempire.site:8080/cliente3226/123456/170111
-
-#EXTINF:-1 tvg-id="" | TyC Sports" tvg-name="AR | TyC Sports" tvg-logo="https://images2.imgbox.com/db/11/FMItvAal_o.png" group-title="???QATAR-2022???", | TyC Sports II
-http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/662.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="GUATEMALA | Tigo Sports FHD" tvg-logo="http://castlempire.site:8080/images/e92d4bd634279d33ae484f9f8e840161.png" group-title="???QATAR-2022???",Tigo Sports
-http://castlempire.site:8080/cliente3226/123456/219175
-
-#EXTINF:-1 tvg-id="" tvg-name="SAL | Tigo Sports HD" tvg-logo="http://castlempire.site:8080/images/151f579fdeb53ad0227944f7b70e0e57.png" group-title="???QATAR-2022???",Tigo Sports
-http://castlempire.site:8080/cliente3226/123456/171088
+#EXTINF:-1 tvg-id="VePlus.ve" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/Ve_Plus_Logo_2019.png" group-title="Undefined",Ve Plus (480p) [Not 24/7]
+http://190.122.96.187:8888/http/006
 
 #EXTINF:-1 tvg-id="ASondeSalsa.pa" tvg-logo="https://i.imgur.com/HSKeS3G.png" group-title="Music",A Son de Salsa (720p) [Not 24/7]
 https://cloud01.mipaneltv.xyz/asondesalsa/asondesalsa/playlist.m3u8
@@ -32,8 +13,7 @@ https://cloud01.mipaneltv.xyz/asondesalsa/asondesalsa/playlist.m3u8
 #EXTINF:-1 tvg-id="520" tvg-name="Venevision" tvg-logo="https://lh3.googleusercontent.com/-A5WgWXaqOSw/YEthPZBXIVI/AAAAAAABAkc/K4ZAK7c9hAoCN5MlTXctd8jG2gPMeABcACK8BGAsYHg/s512/2021-03-12.png", Venevision | VE
 http://wwz.cisneros.tv/ch-estudio4/myStream/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="VePlus.ve" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/Ve_Plus_Logo_2019.png" group-title="Undefined",Ve Plus (480p) [Not 24/7]
-http://190.122.96.187:8888/http/006
+
 
 #EXTINF:-1 tvg-id="TVes.ve" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Large.TVES-logo-2021.png.f9c95c6999d5d4b82b3cd30122501e75.png/512px-Large.TVES-logo-2021.png.f9c95c6999d5d4b82b3cd30122501e75.png" group-title="Undefined",TVes (720p) [Not 24/7]
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/embed/video/x89ys61
@@ -256,7 +236,26 @@ https://megastreamm.com:3611/stream/play.m3u8
 https://mediacpstreamchile.com:1936/ricardoaravena/ricardoaravena/chunklist_w1352191896.m3u8?PlaylistM3UCL
 
 
+#EXTINF:-2001 tvg-logo="https://beinxtraespanol.com/images/beINSPORTS-XTRA_ESPANOL-LOGO_HORIZONTAL_FULL-COLOR.png" group-title="DEPORTES Y COMPETENCIAS", BEIN SPORTS XTRA Ñ
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60492fdd9989d30007ccd30a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a121ad30-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ac3bc3c0-b26f-4c9c-8c94-988af191404a&userId=&serverSideAds=true
 
+
+
+#EXTINF:-1 tvg-id="" tvg-name="MUNDIAL QATAR | GOL MUNDIAL FHD" tvg-logo="https://app-storage.golmundial.com/app/img/share.jpg" group-title="???QATAR-2022???",GOL MUNDIAL 3 
+http://castlempire.site:8080/cliente3226/123456/238903
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Directv Sports Peru" tvg-logo="https://images2.imgbox.com/2a/c1/LmkNFjUQ_o.png" group-title="???QATAR-2022???”,DIRECTV SPORT
+http://castlempire.site:8080/cliente3226/123456/170111
+
+#EXTINF:-1 tvg-id="" | TyC Sports" tvg-name="AR | TyC Sports" tvg-logo="https://images2.imgbox.com/db/11/FMItvAal_o.png" group-title="???QATAR-2022???", | TyC Sports II
+http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/662.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="GUATEMALA | Tigo Sports FHD" tvg-logo="http://castlempire.site:8080/images/e92d4bd634279d33ae484f9f8e840161.png" group-title="???QATAR-2022???",Tigo Sports
+http://castlempire.site:8080/cliente3226/123456/219175
+
+#EXTINF:-1 tvg-id="" tvg-name="SAL | Tigo Sports HD" tvg-logo="http://castlempire.site:8080/images/151f579fdeb53ad0227944f7b70e0e57.png" group-title="???QATAR-2022???",Tigo Sports
+http://castlempire.site:8080/cliente3226/123456/171088
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Claro Sport " tvg-logo="http://castlempire.site:8080/images/9cf8886ad93cb12600a72949c8ce4039.jpg" group-title="? DEPORTES ?",Claro Sport 
@@ -332,8 +331,13 @@ http://castlempire.site:8080/cliente3226/123456/169845
 http://castlempire.site:8080/cliente3226/123456/171024
 #EXTINF:-1 tvg-id="" tvg-name="NATGEO WILD" tvg-logo="https://images2.imgbox.com/02/27/tOERNj8W_o.png" group-title="*CULTURA*",NATGEO WILD
 http://castlempire.site:8080/cliente3226/123456/171023
-#EXTINF:-1 tvg-logo="https://images2.imgbox.com/42/71/hv3wvkqO_o.png" group-title="*CULTURA*", LOVE NATURE
-https://bamus-spa-roku.amagi.tv/playlist1080-p.m3u8
+
+#EXTINF:-140 tvg-logo="https://i.postimg.cc/q7bRmtJL/lovenature.png" group-title="DOCUMENTALES Y CULTURA", LOVE NATURE EN ESPAÑOL
+https://bamus-spa-roku.amagi.tv/playlist.m3u8
+
+#EXTINF:-140 tvg-logo="https://i.postimg.cc/q7bRmtJL/lovenature.png" group-title="DOCUMENTALES Y CULTURA", LOVE NATURE (España)
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60dd6b1da79e4d0007309455/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
 
 
 
@@ -395,9 +399,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d0ec7b0f7015fbe0
 
 #EXTINF:-33 tvg-logo="https://i.postimg.cc/Wpm5jV3h/AAA.png" group-title="DEPORTES Y COMPETENCIAS", LUCHA LIBRE AAA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f99a772c54853000797bf18/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff49451-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=9aaa87da-0575-49b4-b5a5-36b710bfce58&userId=&serverSideAds=true
-
-#EXTINF:-36 tvg-logo="https://www.beinsportsxtra.com/images/icons/logo/beIN-SPORTS-XTRA_LOGO.png" group-title="DEPORTES Y COMPETENCIAS", BEIN SPORTS XTRA
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c82b290-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=672c13ed-c11c-4ba2-b749-117f2f0aab45&userId=&serverSideAds=true
 
 
 #EXTINF:-35 tvg-logo="https://i.postimg.cc/QNYRWNsJ/mlb.png" group-title="DEPORTES Y COMPETENCIAS", MLB CHANNEL
